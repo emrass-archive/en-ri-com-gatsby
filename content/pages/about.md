@@ -1,7 +1,6 @@
 ---
-template: page
 title: About me
-slug: about
+template: page
 socialImage: ""
 ---
 Hi,
