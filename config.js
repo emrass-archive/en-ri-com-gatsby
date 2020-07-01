@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://en-ri.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Homepage of Enrico Mrass',
+  subtitle: 'This is my personal portfolio and blog',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
